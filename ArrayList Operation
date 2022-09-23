@@ -13,7 +13,7 @@
     {
        int count=0;
        for(Character s: clist){
-        if(/*Your code here*/s==c){
+        if(s==c){
             count++;
         
         }
